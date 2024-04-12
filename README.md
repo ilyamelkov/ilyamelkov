@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi,+my+name+is+Ilya+Melkov)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi,+my+name+is+Ilya+Melkov+!)](https://git.io/typing-svg)
 
 
 ### Here is some info about this account!
