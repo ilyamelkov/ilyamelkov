@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi,+my+name+is+Ilya+Melkov)](https://git.io/typing-svg)
+
+
 ### Hi, my name is Ilya Melkov 👋
 🎯I post some of my projects here <br/>
 🎓 Studied in ICEF & LSE on Economics major (BSc) <br/>
