@@ -1,7 +1,10 @@
 ### Hi, my name is Ilya Melkov 👋
 🎯I post some of my projects here
+
 🎓 Studied in ICEF & LSE on Economics major (BSc)
+
 📍 Interested in data analytics, machine learning and dataviz
+
 
 ### Computer skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
