@@ -2,7 +2,7 @@
 
 
 ### Here is some info about this account!
-🎯I post some of my projects here <br/>
+🎯 I post some of my projects here <br/>
 🎓 Studied in ICEF & LSE on Economics major (BSc) <br/>
 📍 I'm interested in data analytics, machine learning and dataviz and hope to work in this area<br/>
 
