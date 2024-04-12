@@ -1,9 +1,7 @@
 ### Hi, my name is Ilya Melkov 👋
-🎯I post some of my projects here
-
-🎓 Studied in ICEF & LSE on Economics major (BSc)
-
-📍 Interested in data analytics, machine learning and dataviz
+🎯I post some of my projects here <br/>
+🎓 Studied in ICEF & LSE on Economics major (BSc) <br/>
+📍 Interested in data analytics, machine learning and dataviz<br/>
 
 
 ### Computer skills
