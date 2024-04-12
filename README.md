@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi,+my+name+is+Ilya+Melkov)](https://git.io/typing-svg)
 
 
-### Hi, my name is Ilya Melkov 👋
+### Here is some info about this account!
 🎯I post some of my projects here <br/>
 🎓 Studied in ICEF & LSE on Economics major (BSc) <br/>
-📍 I'm Interested in data analytics, machine learning and dataviz and hope to work in this area<br/>
+📍 I'm interested in data analytics, machine learning and dataviz and hope to work in this area<br/>
 
 
 ### Computer skills
