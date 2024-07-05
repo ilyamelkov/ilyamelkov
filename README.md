@@ -14,7 +14,7 @@
  - Script to Parse Data for Sentiment Analysis of Russian Stock Market (Pulse Social Network for Private Investors)
  - Segmentation of Bank Customers
 
-❕Most recent projects are pinned
+❗Most recent projects are pinned
 
 ### Computer skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
