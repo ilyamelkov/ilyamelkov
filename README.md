@@ -6,6 +6,14 @@
 🎓 Studied in ICEF & LSE on Economics and Finance degree (BSc). <br/>
 📍 I'm interested in data analytics, machine learning and data visualization.<br/>
 
+### Projects which are available here:
+ - Marketing Campaigns Analysis
+ - RFM Analysis of Retail Store Customers
+ - Telegram Bot for service-selling (scheduling appointments) + Database creation
+ - Power BI dashboard for Retail Store Sales
+ - Script to Parse Data for Sentiment Analysis of Russian Stock Market (Pulse Social Network for Private Investors)
+ - Segmentation of Bank Customers
+
 
 ### Computer skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
