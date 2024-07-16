@@ -3,7 +3,7 @@
 
 ### Here is some info about me and the profile!
 🎯 I post some of my projects here! <br/>
-🎓 Studied in ICEF & LSE on Economics and Finance degree (BSc). <br/>
+🎓 Studied in ICEF (HSE) & LSE on Economics and Finance degree (BSc). <br/>
 📍 I'm interested in data analytics, machine learning and data visualization.<br/>
 
 ### Projects which are available here:
