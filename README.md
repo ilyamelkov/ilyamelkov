@@ -16,6 +16,10 @@
 
 ❗Most recent projects are pinned
 
+### Projects that I am either currently working on or plan to work on in the near future:
+- Credit Scoring Model (WoE & Logistic Regression)
+- Market Basket Analysis (Affinity Analysis)
+
 ### Computer skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
